@@ -1,7 +1,16 @@
+<!--
+ * @Description: 文件及简介l
+ * @Author: Cary
+ * @Date: 2020-01-11 10:34:19
+ * @FilePath: \excel-to-jsonf:\vue-project\vue-test\src\App.vue
+ -->
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    
+    <div style="padding: 20px">
+      <el-button type="primary">测试用按钮</el-button>
+    </div>
   </div>
 </template>
 
