@@ -1,4 +1,4 @@
-# vue-test
+# vue-use-cdn
 
 ## Project setup
 ```
